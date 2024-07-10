@@ -2,7 +2,7 @@
   "scopedRegistries": [
     {
       "name": "FactoryCore",
-      "url": "http://195.90.208.226:4874",
+      "url": "https://github.com/ToniMacaroni/SaberToolkit.git",
       "scopes": [
         "com.factorycore"
       ]
